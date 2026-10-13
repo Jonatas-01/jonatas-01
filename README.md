@@ -1,6 +1,6 @@
 ## Hello world!👋🏼 I'm Jonatas Mendes
 
-I'm a Junior Full Stack Developer with hands-on experience building responsive, data-driven applications using React, Django, PostgreSQL, and REST APIs. Skilled in Python, JavaScript, TypeScript, and Node.js, I enjoy designing efficient solutions from frontend to backend, deploying to cloud platforms, and continuously expanding my tech stack.
+I'm a Full Stack Developer with hands-on experience building responsive, data-driven applications using React, Django, PostgreSQL, and REST APIs. Skilled in Python, JavaScript, TypeScript, and Node.js, I enjoy designing efficient solutions from frontend to backend, deploying to cloud platforms, and continuously expanding my tech stack.
 
 <a href="https://www.linkedin.com/in/jonatas-mc/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
